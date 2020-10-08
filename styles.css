@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "gom-";
-  src:url("fonts/gom-.eot");
-  src:url("fonts/gom-.eot?#iefix") format("embedded-opentype"),
-    url("fonts/gom-.woff") format("woff"),
-    url("fonts/gom-.ttf") format("truetype"),
-    url("fonts/gom-.svg#gom-") format("svg");
+  src:url("fgom-.eot");
+  src:url("gom-.eot?#iefix") format("embedded-opentype"),
+    url("gom-.woff") format("woff"),
+    url("gom-.ttf") format("truetype"),
+    url("gom-.svg#gom-") format("svg");
   font-weight: normal;
   font-style: normal;
 
