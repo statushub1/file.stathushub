@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "gom-";
+  src:url("fonts/gom-.eot");
+  src:url("fonts/gom-.eot?#iefix") format("embedded-opentype"),
+    url("fonts/gom-.woff") format("woff"),
+    url("fonts/gom-.ttf") format("truetype"),
+    url("fonts/gom-.svg#gom-") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "gom-" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "gom-" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-music-1:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\61";
+}
+.icon-music-2:before {
+  content: "\62";
+}
+.icon-search:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\63";
+}
+.icon-arrow-1:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\64";
+}
+.icon-arrow-2:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\65";
+}
+.icon-arrow-3:before {
+  content: "\66";
+}
+.icon-arrow-4:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\67";
+}
+.icon-house:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\68";
+}
+.icon-ipl:before {
+ color: #ffd800;
+  font-size: 30px;
+  content: "\69";
+}
+.icon-live-tv:before {
+  content: "\6a";
+}
+.icon-message-1:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\6b";
+}
+.icon-message-2:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\6c";
+}
+.icon-radio:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\6d";
+}
+.icon-radio-1:before {
+  color: #ffd800;
+  content: "\6e";
+}
+.icon-tv-2:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\6f";
+}
+.icon-tv-1:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\70";
+}
+.icon-share-3:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\71";
+}
+.icon-share-2:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\72";
+}
+.icon-share-1:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\73";
+}
+.icon-radio-2:before {
+  color: #ffd800;
+  font-size: 30px;
+  content: "\74";
+}
