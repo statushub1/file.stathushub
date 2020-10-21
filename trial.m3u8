@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent= Cineplayer/2.0 (Linux;Android 8.0.0) ExoPlayerLib/2.6.1
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Mobile Safari/537.36
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=500000 
 https://load.airtelxstream.in/flowerstv/smil:common.smil/index.m3u8
