@@ -1,6 +1,11 @@
 #EXTM3U
-#EXTVLCOPT:Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Mobile Safari/537.36
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=500000 
-https://load.airtelxstream.in/flowerstv/smil:common.smil/index.m3u8
-
+#EXTINF:0 tvg-id="Pictures.in" group-title="Channels",& Pictures
+#EXT-X-VERSION:5
+#EXT-X-STREAM-INF:BANDWIDTH=314000
+https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b314000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=364000
+https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b364000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=564000
+https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b564000_sleng.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=896000
+https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b896000_sleng.m3u8
