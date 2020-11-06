@@ -1,0 +1,7 @@
+#EXTM3U #Albdroid PHP Streaming Tools
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-user-agent=Cineplayer/2.0 (Linux;Android 8.0.0) ExoPlayerLib/2.6.1
+#EXTVLCOPT:http-referrer=https://live-cf.anandmedia.tv
+#EXTINF:-1,Asianet News
+https://live-cf.anandmedia.tv/anandmedia/asianetmovies_576/tracks-v1a1/index.m3u8 
+ 
